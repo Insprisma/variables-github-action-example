@@ -71,7 +71,11 @@
             "scopes": [
               "ALL_SCOPES"
             ],
-            "codeSyntax": {}
+            "codeSyntax": {
+               "WEB": "color/gray/50",
+              "ANDROID": "color/gray/50",
+              "iOS": "color/gray/50"
+            }
           }
         }
       },
