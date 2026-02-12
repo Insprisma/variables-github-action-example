@@ -10,7 +10,11 @@
           "scopes": [
             "ALL_SCOPES"
           ],
-          "codeSyntax": {}
+          "codeSyntax": {
+            "WEB": "surface/surface-primary",
+            "ANDROID": "surface/surface-primary",
+            "iOS": "surface/surface-primary"
+          }
         }
       }
     },
