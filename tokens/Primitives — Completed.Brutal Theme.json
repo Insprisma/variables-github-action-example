@@ -63,7 +63,7 @@
       },
       "800": {
         "$type": "color",
-        "$value": "#a854ff",
+        "$value": "#c6b9ff",
         "$description": "",
         "$extensions": {
           "com.figma": {
@@ -71,11 +71,7 @@
             "scopes": [
               "ALL_SCOPES"
             ],
-            "codeSyntax": {
-               "WEB": "color/gray/50",
-              "ANDROID": "color/gray/50",
-              "iOS": "color/gray/50"
-            }
+            "codeSyntax": {}
           }
         }
       },
@@ -89,7 +85,11 @@
             "scopes": [
               "ALL_SCOPES"
             ],
-            "codeSyntax": {}
+            "codeSyntax": {
+              "WEB": "color/gray/900",
+              "ANDROID": "color/gray/900",
+              "iOS": "color/gray/900"
+            }
           }
         }
       }
